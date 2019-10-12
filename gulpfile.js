@@ -44,3 +44,9 @@ gulp.task("server", async() => {
         root: "D:\\Adidas1908-"
     })
 });
+
+gulp.task("copy", async() => {
+    connect.server({
+        root: "D:\\Adidas1908-"
+    })
+});

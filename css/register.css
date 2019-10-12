@@ -1,2 +1,49 @@
+a {
+  text-decoration: none; }
+
 .register {
   top: 0; }
+
+section {
+  background: blue;
+  width: 100%;
+  margin-top: 80px; }
+  section .bigSection {
+    min-height: 710px;
+    width: 1240px; }
+    section .bigSection .bigSection-ul {
+      margin-top: 120px;
+      height: 18px; }
+      section .bigSection .bigSection-ul .li {
+        font-size: 16px;
+        color: white;
+        float: left; }
+        section .bigSection .bigSection-ul .li .return {
+          color: white; }
+          section .bigSection .bigSection-ul .li .return .leftArrow {
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            background: url(../img/icon.png);
+            background-position: -52px -20px;
+            margin-right: 5px; }
+      section .bigSection .bigSection-ul .divider {
+        margin: 0 8px; }
+      section .bigSection .bigSection-ul .registerScript {
+        color: #888888; }
+
+.sectionLeft {
+  background: green;
+  width: 55%;
+  min-height: 710px;
+  clear: both;
+  float: left; }
+
+.sectionRight {
+  background: yellow;
+  min-height: 710px;
+  width: 45%;
+  float: right; }
+
+.footerTop {
+  margin-top: 21px; }
