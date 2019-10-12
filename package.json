@@ -1,0 +1,24 @@
+{
+  "name": "adidas1908-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaping187510/Adidas1908-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaping187510/Adidas1908-/issues"
+  },
+  "homepage": "https://github.com/jiaping187510/Adidas1908-#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
