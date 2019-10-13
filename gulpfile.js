@@ -45,8 +45,7 @@ gulp.task("server", async() => {
     })
 });
 
-gulp.task("copy", async() => {
-    connect.server({
-        root: "D:\\Adidas1908-"
-    })
-});
+// gulp.task("copyfile", async() => {
+//     gulp.src('./**/*')
+//         .pipe(gulp.dest('D:\\phpStudy\\WWW\\AdidasDist'));
+// });
